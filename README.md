@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickpatelia
 - 👀 I’m interested in DevOps with cloud computing 
 - 🌱 I’m currently learning jenkins
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 How to reach ...
 
 <!---
