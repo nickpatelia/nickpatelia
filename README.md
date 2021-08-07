@@ -2,7 +2,8 @@
 - 👀 I’m interested in DevOps with cloud computing 
 - 🌱 I’m currently learning jenkins
 - 💞️ 
-- 📫 How to reach ...
+- 📫 How to contact me
+-
 
 <!---
 nickpatelia/nickpatelia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
